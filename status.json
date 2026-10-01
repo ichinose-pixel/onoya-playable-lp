@@ -22,7 +22,7 @@
   "preview": "http://127.0.0.1:4173",
   "publicPreview": "https://ichinose-pixel.github.io/onoya-playable-lp/",
   "publicPreviewVerified": true,
-  "deploymentCommit": "f4d0ce907a10818db7342df90889b9b99cafcece",
+  "deploymentCommit": "62c1bc74db4bf8dc4102d4358cc6eb0ec4b547ea",
   "sourceCommit": "584d8022ea66e72f8fe9a57d1b5851c5caa331bb",
   "githubWriteVerified": true,
   "repository": "https://github.com/ichinose-pixel/onoya-playable-lp",
