@@ -22,7 +22,7 @@
   "preview": "http://127.0.0.1:4173",
   "publicPreview": "https://ichinose-pixel.github.io/onoya-playable-lp/",
   "publicPreviewVerified": true,
-  "deploymentCommit": "62c1bc74db4bf8dc4102d4358cc6eb0ec4b547ea",
+  "deploymentCommit": "6e2f7c5b7f0827e505d1032ce7b81f8287c20278",
   "sourceCommit": "584d8022ea66e72f8fe9a57d1b5851c5caa331bb",
   "githubWriteVerified": true,
   "repository": "https://github.com/ichinose-pixel/onoya-playable-lp",
@@ -35,5 +35,7 @@
     "CLI push authentication is not verified"
   ],
   "resumeFrom": "Read brief.md, status.json, qa/report.md and qa/revision-comparison.md. Do not treat the rejected simplified game as complete. Revised preview is deployed; original later-stage direct interaction comparison and pointer long-press success remain pending. Edit site/game directly; restore-game.mjs is historical. Use node scripts/serve.mjs, node scripts/check.mjs, node scripts/compare-game.mjs; package.mjs generates release/index.html. Browser editor large input must be split below 350k characters and read-back verified.",
-  "qaReport": "qa/report.md"
+  "qaReport": "qa/report.md",
+  "qualityReport": "qa/game-quality.md",
+  "selectionGuard": "Public Chrome verified parent double-click empty selection, canvas to parent boundary drag empty selection, direct fish progress and console error/warn 0; local product text copying preserved. Physical touch long-press remains pending."
 }
